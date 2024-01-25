@@ -1,0 +1,41 @@
+baseURL = 'https://www.emanuelecivini.com'
+languageCode = 'en-us'
+title = 'Emanuele Civini'
+theme = 'paper'
+
+# Menu
+[menus]
+[[menu.main]]
+  identifier = 'home'
+  name = "Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  identifier = 'about'
+  name = "About"
+  url = "/about"
+  weight = 10
+[[menu.main]]
+  identifier = 'contact'
+  name = "Contact"
+  url = "/contact"
+  weight = 20
+
+[params]
+  color = 'linen' # linen, wheat, gray, light
+
+  github = 'ecivini'                 
+  linkedin = 'emanuele-civini'           
+  rss = true                               
+
+  avatar = 'emanuelecivini@gmail.com'
+  name = 'Emanuele Civini'
+  bio = 'Hello hello'
+
+  disableHLJS = false                       
+  disablePostNavigation = false             
+  monoDarkIcon = false                       
+  gravatarCdn = 'https://cdn.v2ex.com/gravatar/'        
+  math = true              
+
+  comments = false                
