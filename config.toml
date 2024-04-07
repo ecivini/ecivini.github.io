@@ -15,11 +15,6 @@ theme = 'paper'
   name = "About"
   url = "/about"
   weight = 10
-[[menu.main]]
-  identifier = 'contact'
-  name = "Contact"
-  url = "/contact"
-  weight = 20
 
 [params]
   color = 'linen' # linen, wheat, gray, light
@@ -29,8 +24,8 @@ theme = 'paper'
   rss = true                               
 
   avatar = 'emanuelecivini@gmail.com'
-  name = 'Emanuele Civini'
-  bio = 'Hello hello'
+  name = 'Hey!'
+  bio = 'I am a CS Student / SW Engineer interested in cryptography and web3.'
 
   disableHLJS = false                       
   disablePostNavigation = false             
