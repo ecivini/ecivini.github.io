@@ -31,5 +31,4 @@ theme = 'paper'
   disablePostNavigation = false             
   monoDarkIcon = false                       
   gravatarCdn = 'https://cdn.v2ex.com/gravatar/'        
-  math = true              
-  graphCommentId = "emanuele-civini"           
+  math = true                    
