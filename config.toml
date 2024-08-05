@@ -25,7 +25,7 @@ theme = 'paper'
 
   avatar = 'emanuelecivini@gmail.com'
   name = 'Hey!'
-  bio = 'I am a CS Student / SW Engineer interested in cryptography and web3.'
+  bio = 'I am a Software Engineer interested in cryptography and web3.'
 
   disableHLJS = false                       
   disablePostNavigation = false             

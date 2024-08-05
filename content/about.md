@@ -5,7 +5,7 @@ date = "25-01-2024"
 author = "Emanuele Civini"
 +++
 
-I'm Emanuele Civini, a CS student interested in cryptography and its applications.
+I'm Emanuele Civini, a Software Engineer interested in web3, cryptography and its applications.
 As of now I'm currently pursuing a Master's Degree in CyberSecurity with a focus on cryptography. Alongside this I'm also a Software Engineer at [BlockInvest](https://blockinvest.it).
 
 If you'd like to contact me, you can write me an email at [emanuele.civini@proton.me](mailto:emanuele.civini@proton.me).  
