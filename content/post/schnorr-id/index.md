@@ -3,7 +3,7 @@ author = "Emanuele Civini"
 title = "Schnorr identification protocol over Curve25519" 
 date = 2024-07-17
 tags = ["cryptography", "identification", "Schnorr", "Curve25519"]
-math = true
+katex = true
 +++
 
 Schnorr identification is a simple protocol that lets a verifier verify the identity of a prover and is secure against eavesdropping attacks under the discrete logarithm assumption.
