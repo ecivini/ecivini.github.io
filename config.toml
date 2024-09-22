@@ -11,7 +11,7 @@ paginate = 5
   contentTypeName = "post"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -68,6 +68,9 @@ paginate = 5
       missingBackButtonLabel = "Back to home page"
       minuteReadingTime = "min read"
       words = "words"
+    
+      [markup.goldmark.renderer]
+        unsafe = true
 
       [languages.en.params.logo]
         logoText = "Emanuele Civini"
@@ -84,4 +87,9 @@ paginate = 5
           name = "Posts"
           url = "/post"
           weight = 30
+        [[languages.en.menu.main]]
+          identifier = "snowflake"
+          name = "Snowflake"
+          url = "/snowflake"
+          weight = 40
 
